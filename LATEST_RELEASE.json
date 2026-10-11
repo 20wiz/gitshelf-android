@@ -1,0 +1,49 @@
+{
+  "version": "0.3.0",
+  "versionCode": 3,
+  "repository": "20wiz/gitshelf-android",
+  "release": "https://github.com/20wiz/gitshelf-android/releases/tag/v0.3.0",
+  "apk": "https://github.com/20wiz/gitshelf-android/releases/download/v0.3.0/GitShelf-0.3.0-debug.apk",
+  "bytes": 20014824,
+  "sha256": "5fd1d3662fe0a81ddfcc64aabb1e9d091c5506d05f4338fa56f6ae511a21acaa",
+  "signerSha256": "9603d89f1be0fb2651b7d90dec5e60f085164efdfc7805fc8b587c74d3605972",
+  "clientIdConfigured": true,
+  "checks": {
+    "coreTests": 15,
+    "androidTests": 7,
+    "lintErrors": 0,
+    "lintWarnings": 16
+  },
+  "assets": [
+    {
+      "id": 630031745,
+      "name": "GitShelf-0.3.0-debug.apk",
+      "bytes": 20014824,
+      "sha256": "5fd1d3662fe0a81ddfcc64aabb1e9d091c5506d05f4338fa56f6ae511a21acaa",
+      "url": "https://github.com/20wiz/gitshelf-android/releases/download/v0.3.0/GitShelf-0.3.0-debug.apk"
+    },
+    {
+      "id": 630031817,
+      "name": "GitShelf-0.3.0-rebuild-source.zip",
+      "bytes": 236262,
+      "sha256": "4ecd1b7152e7f1a83609d02522a3242c414783816f286c9c56692822d738d8a8",
+      "url": "https://github.com/20wiz/gitshelf-android/releases/download/v0.3.0/GitShelf-0.3.0-rebuild-source.zip"
+    },
+    {
+      "id": 630031838,
+      "name": "Sora-Editor-0.23.6-source.zip",
+      "bytes": 6121093,
+      "sha256": "779304fe26d4d2c4ffde87c1ebe886b0bc687ee26b22ee277f7b158d3a3670a4",
+      "url": "https://github.com/20wiz/gitshelf-android/releases/download/v0.3.0/Sora-Editor-0.23.6-source.zip"
+    },
+    {
+      "id": 630031870,
+      "name": "SHA256SUMS.txt",
+      "bytes": 287,
+      "sha256": "f6626d39f04f9463cb29d7e744fdbd4a74d7e1f12e22ac5e984c9865cc914333",
+      "url": "https://github.com/20wiz/gitshelf-android/releases/download/v0.3.0/SHA256SUMS.txt"
+    }
+  ],
+  "anonymousDownloadVerified": true,
+  "verifiedAt": "2026-10-11T06:53:14.744Z"
+}
